@@ -54,7 +54,7 @@ const EditTestCreation: React.FC = () => {
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-full overflow-hidden border border-[#E2E8F0] bg-slate-100 flex-shrink-0">
               <img 
-                src="/assets/profile-img.png" 
+                src="/profile-img.png" 
                 alt="Alex Wando Profile" 
                 className="w-full h-full object-cover"
               />

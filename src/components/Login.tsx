@@ -50,7 +50,7 @@ const Login: React.FC = () => {
         {/* Left Side: Illustration */}
         <div className="w-full md:w-1/2 flex justify-center items-center p-4">
           <img 
-            src="/assets/login-img.png" 
+            src="/login-img.png" 
             alt="PrepRoute Illustration" 
             className="w-full max-w-[450px] h-auto object-contain"
           />
@@ -62,7 +62,7 @@ const Login: React.FC = () => {
           {/* Logo */}
           <div className="mb-10 text-left">
             <img 
-              src="/assets/logo.png" 
+              src="/logo.png" 
               alt="PrepRoute" 
               className="h-8 object-contain"
             />

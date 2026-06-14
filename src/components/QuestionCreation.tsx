@@ -271,7 +271,7 @@ const QuestionCreation: React.FC = () => {
         <div className="h-[70px] px-6 flex items-center justify-between border-b border-[#F1F5F9] shrink-0">
           <div className="flex items-center gap-1.5">
             <img 
-              src="assets/logo.png" 
+              src="/logo.png" 
               alt="Logo" 
               className="h-7 w-auto object-contain cursor-pointer"
               onClick={() => window.location.href = '/dashboard'}

@@ -47,7 +47,7 @@ const Navigation: React.FC = () => {
         {/* Brand Logo Header */}
         <div className="h-20 flex items-center px-6 border-b border-[#F1F5F9]">
           <img 
-            src="/assets/logo.png" 
+            src="/logo.png" 
             alt="PrepRoute" 
             className="h-7 object-contain"
           />
@@ -106,7 +106,7 @@ const Navigation: React.FC = () => {
               {/* User Avatar Custom Image Placeholder */}
               <div className="w-10 h-10 rounded-full overflow-hidden border border-[#E2E8F0] bg-slate-100 flex-shrink-0">
                 <img 
-                  src="/assets/profile-img.png" 
+                  src="/profile-img.png" 
                   alt="Alex Wando Profile" 
                   className="w-full h-full object-cover"
                 />

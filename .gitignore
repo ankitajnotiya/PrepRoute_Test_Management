@@ -40,3 +40,6 @@ coverage/
 # Misc
 *.log
 .cache
+
+# Empty assets folder (images moved to public)
+assets/
